@@ -1,0 +1,4 @@
+module freshchat_ios {
+    header "/Users/harishkumar/Documents/Hotline/freshchat-ios/freshchat-ios/.build/x86_64-apple-macosx/debug/freshchat_ios.build/freshchat-ios-Swift.h"
+    requires objc
+}

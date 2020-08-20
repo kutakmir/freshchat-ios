@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "11cbf652a7f2cda58697903c550f095b"
+build_time: [1597954917, 46158000]
+inputs:
+  "/Users/harishkumar/Documents/Hotline/freshchat-ios/freshchat-ios/Sources/freshchat-ios/freshchat_ios.swift": [1597954904, 706818342]

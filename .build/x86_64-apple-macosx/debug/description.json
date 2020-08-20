@@ -1,0 +1,25 @@
+{
+  "allExecutables" : [
+
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "freshchat-ios",
+      "productName" : "freshchat-iosPackageTests",
+      "testBinary" : "\/Users\/harishkumar\/Documents\/Hotline\/freshchat-ios\/freshchat-ios\/.build\/x86_64-apple-macosx\/debug\/freshchat-iosPackageTests.xctest\/Contents\/MacOS\/freshchat-iosPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+
+  ],
+  "swiftTargetMap" : {
+    "C.freshchat-ios-debug.module" : "freshchat-ios",
+    "C.freshchat-iosTests-debug.module" : "freshchat-iosTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}
